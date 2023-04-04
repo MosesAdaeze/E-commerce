@@ -707,7 +707,6 @@ footer .copyright {
         width: 100%;
     }
 
-    
     #newsletter {
         padding: 40px 20px;
     }
@@ -720,3 +719,4 @@ footer .copyright {
         text-align: start;
     }
 }
+/* end media query */
